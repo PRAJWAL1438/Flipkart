@@ -1,0 +1,9 @@
+.NaviBar{
+    display: flex;
+    height:10vh;
+    width: 100vw;
+    /* border: yellow solid 2px; */
+    align-items: center;
+    justify-content: space-around;
+    font-size: 14px;
+}
